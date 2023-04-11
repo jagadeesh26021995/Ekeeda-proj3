@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Poppins:wght@300&display=swap');
+
+.lay1{
+    height:100%;
+    position:fixed;
+    width:400px;
+    top:0;
+    background-color: rgb(8, 8, 8);
+    border-right: 2px solid gray;
+    
+}
+body
+{
+    background-color: black;
+}
+.logo
+{
+    font-family: 'Golos Text', sans-serif;
+    color:white;
+    font-size: larger;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.homemenu{
+    color:white;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lay2
+{
+  top:0;
+    margin-left:600px;
+    height:100%;
+    width:600px;
+
+    border-top: rgb(0, 0, 0) ;
+    
+}
+.status{
+    margin-top: 40px;
+    margin-left:10px;
+    border-radius: 50%;
+    color:white;
+    font-size: 12px;
+text-align: center;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: 400;
+}
+.status img{
+    border-radius: 50%;
+}
+.msg1img{
+    color:white;
+    margin-bottom:20px;
+}
+.msg1img img{
+    border-radius: 50%;
+   
+    margin-left: 600px;
+    
+}
+
+.like-share-comment{
+    color:white;
+    font-size: 23px;
+}
+.content{
+    margin-left: 600px;
+    color:white;
+}
+#comment{
+    width:600px;
+    height:40px;
+    background-color: black;
+}
+.totalcomment{
+    font-size: 12px;
+}
+.lay3
+{
+    margin-left:1300px;
+    position: fixed;
+    top:20px;
+    color: white;
+}
+.myprof
+{
+    border-radius: 50%;
+    display: flex;
+}
+.sug1,.sug2,.sug3,.sug4,.sug5
+{
+    display: flex;
+}
+.footmenu
+{
+    display: flex;
+    color:gray;
+    font-size: 12px;
+}
+.copyright
+{
+    color:gray;
+}
